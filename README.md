@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VPeti1, another random dev
 - 👀 I would like to be an IT guy one day
 - 👀 I’m interested in programming and junk computers
-- 👀 My main focus is developing random things that come to my mind
+- 👀 My main focus is developing random things that comes to my mind
 - 🌱 I’m currently learning C++ 
 - 📫 You can reach me at vpeter1@outlook.hu
 - ⚡ Fun fact: I have 14 computers
