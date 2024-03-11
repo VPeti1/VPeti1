@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
 - 🔗  Discord server: https://discord.gg/ZmXRtQfTrg
+- 👾  Twitch: https://www.twitch.tv/vpeti___
 
 <!---
 VPeti1/VPeti1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
