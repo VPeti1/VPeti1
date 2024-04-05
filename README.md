@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @VPeti1, another random dev
-- 💾 I’m interested in programming and junk computers
-- 👀 My main focus is developing random things that comes to my mind
+- 💾 I’m interested in programming, junk computers and the Sega Mega Drive
+- 👀 My main focus is developing random things
 - 🤔 I’m currently learning C++ and Python
 - 📫 You can reach me at vpeter1@outlook.hu
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
-- 🔗 Discord server: https://discord.gg/ZmXRtQfTrg
 - 👾 Twitch: vpeti___
 - 💻 AUR: https://aur.archlinux.org/account/VPeti1 
 
