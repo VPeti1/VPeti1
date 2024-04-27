@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
 - 👾 Twitch: vpeti___
-- 💻 AUR: https://aur.archlinux.org/account/VPeti1 
+- 💻 Arch Repo: https://github.com/VPeti1/vpeti-repo
 
 <!---
 VPeti1/VPeti1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
