@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @VPeti1, another random dev
+- 👋 Hi, I’m @VPeti1
 - 💾 I’m interested in programming, junk computers and the Sega Mega Drive
 - 👀 My main focus is developing random things
-- 🤔 I’m currently learning Go but I program in C++ aswell
-- 📫 You can reach me at vpeter1@outlook.hu
+- 🤔 I code in Go and C++
+- 📫 You can reach me at vpeti011@outlook.com
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
 - 👾 Twitch: vpeti___
-- 💻 Arch Repo: https://github.com/VPeti1/vpeti-repo
 
 <!---
 VPeti1/VPeti1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
