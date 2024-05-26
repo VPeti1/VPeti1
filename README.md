@@ -2,7 +2,7 @@
 - 💾 I’m interested in programming, junk computers and the Sega Mega Drive
 - 👀 My main focus is developing random things
 - 🤔 I code in Go and C++
-- 📫 You can reach me at vpeti011@outlook.com
+- 📫 You can reach me at vpeti011@protonmail.com
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
 - 👾 Twitch: vpeti___
