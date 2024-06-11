@@ -5,7 +5,8 @@
 - 📫 You can reach me at vpeti011@protonmail.com
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
-- 👾 Twitch: vpeti___
+- 🔑 GPG key finderprint: 213E3A213D7F32489D63FA287B2E7406D3100614
+- 🔑 YKEY public key: f4598d1538c451a9faec64b448dcf52ccbc843f22a3986c66a86f561366a2717
 
 <!---
 VPeti1/VPeti1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
