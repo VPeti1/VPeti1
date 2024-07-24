@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VPeti1
 - 💾 I’m interested in programming, junk computers and the Sega Mega Drive
 - 👀 My main focus is developing random things
-- 🤔 I code in Go and C++
+- 🤔 I code mostly in Go
 - 📫 You can reach me at vpeti011@protonmail.com
 - ⚡ Fun fact: I have 14 computers
 - 🇭🇺 I live in Hungary
