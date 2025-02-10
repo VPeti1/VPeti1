@@ -1,3 +1,6 @@
+# Moved to GitLab
+## https://gitlab.com/VPeti11
+
 - 👋 Hi, I’m @VPeti1
 - 💾 I’m interested in programming, junk computers and the Sega Mega Drive
 - 👀 My main focus is developing random things
